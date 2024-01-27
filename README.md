@@ -1,7 +1,7 @@
 # Complete list of all GitHub Profile badges and Achievements
 
-#### Displaying achievements on your profile is completely optional; by default, they can be seen by anyone viewing your public profile.
-
+#### Outshining achievements on your profile is completely optional ; by default, your badges can be viewed by anyone visiting your public profile.
+Our achievements inspires us and motivate us to continue .
 You can opt out from having achievements displayed on your profile by going to your [profile settings](https://github.com/settings).
 
 <br>
